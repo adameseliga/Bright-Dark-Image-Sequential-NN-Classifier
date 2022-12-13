@@ -1,8 +1,3 @@
-## CS 3642 Professor Hung
-## Adam Seliga
-## Programming Assignment 3
-## Perceptron
-
 import random
 import keras
 from keras import layers
